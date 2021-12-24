@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="921f9741-f56e-4ecc-b0a5-de11fc38753b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22jYG7r25a0FTHgOGvItR2SO5q2" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EDUMAGO" />
+  </component>
+  <component name="RunManager" selected="TestNG.AboutPageTest.programManagerTest">
+    <configuration name="AboutPageTest.programManagerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingFrameworkSeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.powercoders.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.powercoders.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.powercoders.tests.AboutPageTest" />
+      <option name="METHOD_NAME" value="programManagerTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingFrameworkSeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.powercoders.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.powercoders.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.powercoders.tests.HomePageTest" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.VerifyUrlTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingFrameworkSeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.powercoders.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.powercoders.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.powercoders.tests.HomePageTest" />
+      <option name="METHOD_NAME" value="VerifyUrlTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AboutPageTest.programManagerTest" />
+        <item itemvalue="TestNG.HomePageTest.VerifyUrlTest" />
+        <item itemvalue="TestNG.HomePageTest.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="921f9741-f56e-4ecc-b0a5-de11fc38753b" name="Default Changelist" comment="" />
+      <created>1640352364234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640352364234</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="122" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1640356197716">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="122" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1640356197716" />
+    <state width="1323" height="168" key="GridCell.Tab.0.bottom" timestamp="1640357438659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1640357438659" />
+    <state width="1323" height="168" key="GridCell.Tab.0.center" timestamp="1640357438659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1640357438659" />
+    <state width="1323" height="168" key="GridCell.Tab.0.left" timestamp="1640357438659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1640357438659" />
+    <state width="1323" height="168" key="GridCell.Tab.0.right" timestamp="1640357438659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1640357438659" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/org/powercoders/tests/AboutPageTest.java</url>
+          <line>21</line>
+          <properties class="org.powercoders.tests.AboutPageTest" method="programManagerTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
