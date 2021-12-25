@@ -4,6 +4,7 @@ import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 
 import org.powercoders.pages.HomePage;
+import org.powercoders.utilities.BrowserUtils;
 import org.powercoders.utilities.ConfigurationReader;
 import org.powercoders.utilities.Driver;
 import org.testng.annotations.Test;
@@ -26,6 +27,7 @@ public class HomePageTest {
 
     assertTrue(actualTitle.contains(expectedTitle), "Title can not be verified");
 
+    Driver.closeDriver();
 
   }
 
@@ -42,7 +44,8 @@ public class HomePageTest {
     String actualTitle = Driver.getDriver().getCurrentUrl();
 
     assertEquals(actualTitle, expectedTitle, "Url do not match");
-
+    BrowserUtils.sleep(1);
+    Driver.closeDriver();
   }
 
 }

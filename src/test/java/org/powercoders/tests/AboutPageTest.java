@@ -1,5 +1,7 @@
 package org.powercoders.tests;
 
+import static org.testng.Assert.assertEquals;
+
 import org.openqa.selenium.JavascriptExecutor;
 import org.powercoders.pages.AboutPage;
 import org.powercoders.pages.HomePage;
@@ -10,7 +12,7 @@ import org.testng.annotations.Test;
 public class AboutPageTest {
 
   HomePage homePage = new HomePage();
-  AboutPage aboutPage = new AboutPage();;
+  AboutPage aboutPage = new AboutPage();
 
   // go to web site
   // click the "About" page
@@ -28,5 +30,12 @@ public class AboutPageTest {
     jse.executeScript("scroll(0,2000);");
     aboutPage.dropdown.click();
     aboutPage.teamZurich.click();
+    String actualName = aboutPage.findPerson("Program Manager").getText();
+    String expectedName = "Linus Murbach";
+    System.out.println(actualName);
+    assertEquals(actualName, expectedName, "Names do not match");
+
+    Driver.closeDriver();
+
   }
 }

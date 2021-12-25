@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="921f9741-f56e-4ecc-b0a5-de11fc38753b" name="Default Changelist" comment="" />
+    <list default="true" id="921f9741-f56e-4ecc-b0a5-de11fc38753b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/pages/DonatePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/DonatePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/powercoders/pages/AboutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/pages/AboutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/AboutPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/AboutPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/pages/AboutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/pages/AboutPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/tests/AboutPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/tests/AboutPageTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="22jYG7r25a0FTHgOGvItR2SO5q2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../EDUMAGO" />
   </component>
-  <component name="RunManager" selected="TestNG.AboutPageTest.programManagerTest">
+  <component name="RunManager" selected="TestNG.HomePageTest.VerifyUrlTest">
     <configuration name="AboutPageTest.programManagerTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestingFrameworkSeleniumTestNG" />
       <extension name="coverage">
@@ -43,6 +56,41 @@
       <option name="MAIN_CLASS_NAME" value="org.powercoders.tests.AboutPageTest" />
       <option name="METHOD_NAME" value="programManagerTest" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DonatePageTest.donationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingFrameworkSeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.powercoders.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.powercoders.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.powercoders.tests.DonatePageTest" />
+      <option name="METHOD_NAME" value="donationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingFrameworkSeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.powercoders.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.powercoders.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.powercoders.tests.HomePageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -87,8 +135,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.AboutPageTest.programManagerTest" />
         <item itemvalue="TestNG.HomePageTest.VerifyUrlTest" />
+        <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG.DonatePageTest.donationTest" />
+        <item itemvalue="TestNG.AboutPageTest.programManagerTest" />
         <item itemvalue="TestNG.HomePageTest.Test1" />
       </list>
     </recent_temporary>
@@ -111,29 +161,45 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="122" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1640356197716" />
-    <state width="1323" height="168" key="GridCell.Tab.0.bottom" timestamp="1640357438659">
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom" timestamp="1640447375283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1640357438659" />
-    <state width="1323" height="168" key="GridCell.Tab.0.center" timestamp="1640357438659">
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1640447375283" />
+    <state width="1323" height="220" key="GridCell.Tab.0.center" timestamp="1640447375283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="168" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1640357438659" />
-    <state width="1323" height="168" key="GridCell.Tab.0.left" timestamp="1640357438659">
+    <state width="1323" height="220" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1640447375283" />
+    <state width="1323" height="220" key="GridCell.Tab.0.left" timestamp="1640447375283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="168" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1640357438659" />
-    <state width="1323" height="168" key="GridCell.Tab.0.right" timestamp="1640357438659">
+    <state width="1323" height="220" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1640447375283" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right" timestamp="1640447375283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="168" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1640357438659" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1640447375283" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1640446562706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1640446562706" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1640446562706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1640446562706" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1640446562706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1640446562706" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1640446562706">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1640446562706" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/org/powercoders/tests/AboutPageTest.java</url>
-          <line>21</line>
+          <line>23</line>
           <properties class="org.powercoders.tests.AboutPageTest" method="programManagerTest">
             <option name="EMULATED" value="true" />
           </properties>
