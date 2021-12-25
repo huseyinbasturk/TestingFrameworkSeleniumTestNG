@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="921f9741-f56e-4ecc-b0a5-de11fc38753b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/pages/DonatePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/DonatePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/powercoders/pages/AboutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/pages/AboutPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/AboutPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/AboutPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/HomePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/pages/AboutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/pages/AboutPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/tests/AboutPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/tests/AboutPageTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="921f9741-f56e-4ecc-b0a5-de11fc38753b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +25,9 @@
     </option>
   </component>
   <component name="ProjectId" id="22jYG7r25a0FTHgOGvItR2SO5q2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
