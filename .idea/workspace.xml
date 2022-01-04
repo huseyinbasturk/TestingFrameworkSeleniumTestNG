@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="921f9741-f56e-4ecc-b0a5-de11fc38753b" name="Default Changelist" comment="" />
+    <list default="true" id="921f9741-f56e-4ecc-b0a5-de11fc38753b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/pages/PressPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/PressPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67de28ba1023293fc38f697dfe9dfa3f1b47207c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67de28ba1023293fc38f697dfe9dfa3f1b47207c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/tests/DonatePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/tests/DonatePageTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +44,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../EDUMAGO" />
   </component>
-  <component name="RunManager" selected="TestNG.HomePageTest.VerifyUrlTest">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.powercoders.tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PressPageTest.contactAddressTest">
     <configuration name="AboutPageTest.programManagerTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestingFrameworkSeleniumTestNG" />
       <extension name="coverage">
@@ -90,24 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomePageTest.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestingFrameworkSeleniumTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.powercoders.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.powercoders.tests" />
-      <option name="MAIN_CLASS_NAME" value="org.powercoders.tests.HomePageTest" />
-      <option name="METHOD_NAME" value="Test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HomePageTest.VerifyUrlTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestingFrameworkSeleniumTestNG" />
       <extension name="coverage">
@@ -126,13 +121,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PressPageTest.contactAddressTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingFrameworkSeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.powercoders.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.powercoders.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.powercoders.tests.PressPageTest" />
+      <option name="METHOD_NAME" value="contactAddressTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PressPageTest.contactAddressTest" />
         <item itemvalue="TestNG.HomePageTest.VerifyUrlTest" />
         <item itemvalue="TestNG.HomePageTest" />
         <item itemvalue="TestNG.DonatePageTest.donationTest" />
         <item itemvalue="TestNG.AboutPageTest.programManagerTest" />
-        <item itemvalue="TestNG.HomePageTest.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -154,38 +167,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="122" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1640356197716" />
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1640447496925">
+    <state width="1323" height="46" key="GridCell.Tab.0.bottom" timestamp="1641337250015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1640447496925" />
-    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1640447496925">
+    <state width="1323" height="46" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1641337250015" />
+    <state width="1323" height="46" key="GridCell.Tab.0.center" timestamp="1641337250015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1640447496925" />
-    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1640447496925">
+    <state width="1323" height="46" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1641337250015" />
+    <state width="1323" height="46" key="GridCell.Tab.0.left" timestamp="1641337250015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1640447496925" />
-    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1640447496925">
+    <state width="1323" height="46" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1641337250015" />
+    <state width="1323" height="46" key="GridCell.Tab.0.right" timestamp="1641337250015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1640447496925" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1640446562706">
+    <state width="1323" height="46" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1641337250015" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1640447963272">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1640446562706" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1640446562706">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1640447963272" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1640447963257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1640446562706" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1640446562706">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1640447963257" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1640447963257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1640446562706" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1640446562706">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1640447963257" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1640447963257">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1640446562706" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1640447963257" />
+    <state x="357" y="78" key="RollbackChangesDialog" timestamp="1641335245083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="357" y="78" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1641335245083" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

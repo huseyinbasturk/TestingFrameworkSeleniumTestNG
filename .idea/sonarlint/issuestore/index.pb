@@ -21,3 +21,12 @@ b
 2src/test/java/org/powercoders/pages/AboutPage.java,1\b\1bbb0315cc912e9f2510a548b36c4393719f58cc
 f
 6src/test/java/org/powercoders/tests/AboutPageTest.java,6\3\63f995975030e1843fa58ea299eb54d1f0dfec5c
+c
+3src/test/java/org/powercoders/pages/DonatePage.java,4\4\44534199aa19cfdce80421ef60216c3557a72206
+g
+7src/test/java/org/powercoders/tests/DonatePageTest.java,9\7\972825289eed6bad32fe716c59c662b103246a1a
+R
+"TestingFrameworkSeleniumTestNG.iml,a\f\afd1cd5de8a4f93e0c48fd7774ded96fc763e969
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
