@@ -5,10 +5,8 @@ import static org.testng.Assert.assertTrue;
 
 import com.github.javafaker.Faker;
 import java.util.Set;
-import org.openqa.selenium.JavascriptExecutor;
 import org.powercoders.pages.DonatePage;
 import org.powercoders.pages.HomePage;
-import org.powercoders.utilities.BrowserUtils;
 import org.powercoders.utilities.ConfigurationReader;
 import org.powercoders.utilities.Driver;
 import org.testng.annotations.Test;

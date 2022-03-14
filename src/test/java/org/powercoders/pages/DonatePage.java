@@ -7,6 +7,8 @@ import org.powercoders.utilities.Driver;
 
 public class DonatePage {
 
+  private final Object PageFactory;
+
   public DonatePage(){
 
     PageFactory.initElements(Driver.getDriver(),this);

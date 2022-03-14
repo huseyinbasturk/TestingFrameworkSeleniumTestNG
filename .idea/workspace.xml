@@ -1,221 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="921f9741-f56e-4ecc-b0a5-de11fc38753b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/pages/PressPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/PressPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67de28ba1023293fc38f697dfe9dfa3f1b47207c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67de28ba1023293fc38f697dfe9dfa3f1b47207c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="b6eca2c6-c1c5-4393-a7e7-f145eefbda51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/006949fd8cac3405b1e55ffd0933232ad76564f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c9b46577633b256cdaa6a3b77c97ece6784355d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bbb0315cc912e9f2510a548b36c4393719f58cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/63f995975030e1843fa58ea299eb54d1f0dfec5c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67de28ba1023293fc38f697dfe9dfa3f1b47207c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/83bbb56e0f16fc55b3fe4556764e4198cb2905d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/850ddcff13c9943d6374a9bc27f7d2eb83304d24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6c5dfcde54b418dd721679edbc49a89558b78a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e839c33994f9f4c9061dd64250b8bd415dbb9cbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9497fb1586cd989dde2c6ed02d42e747df69125" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/tests/DonatePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/tests/DonatePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestingFrameworkSeleniumTestNG.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestingFrameworkSeleniumTestNG.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/powercoders/pages/DonatePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/pages/DonatePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/DonatePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/tests/DonatePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/powercoders/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/utilities/BrowserUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/powercoders/utilities/TakeScreenShots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/powercoders/utilities/TakeScreenShots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/pages/AboutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/pages/AboutPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/pages/DonatePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/pages/DonatePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/tests/HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/tests/HomePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/utilities/BrowserUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/utilities/BrowserUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/utilities/ConfigurationReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/utilities/ConfigurationReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/utilities/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/utilities/TakeScreenShots.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/utilities/TakeScreenShots.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/powercoders/utilities/UploadFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/powercoders/utilities/UploadFile.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="22jYG7r25a0FTHgOGvItR2SO5q2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="26OYGz4A4V8o8vcb2EDhkjRyfjM" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EDUMAGO" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org.powercoders.tests" />
-    </key>
-  </component>
-  <component name="RunManager" selected="TestNG.PressPageTest.contactAddressTest">
-    <configuration name="AboutPageTest.programManagerTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestingFrameworkSeleniumTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.powercoders.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.powercoders.tests" />
-      <option name="MAIN_CLASS_NAME" value="org.powercoders.tests.AboutPageTest" />
-      <option name="METHOD_NAME" value="programManagerTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DonatePageTest.donationTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestingFrameworkSeleniumTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.powercoders.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.powercoders.tests" />
-      <option name="MAIN_CLASS_NAME" value="org.powercoders.tests.DonatePageTest" />
-      <option name="METHOD_NAME" value="donationTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestingFrameworkSeleniumTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.powercoders.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.powercoders.tests" />
-      <option name="MAIN_CLASS_NAME" value="org.powercoders.tests.HomePageTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomePageTest.VerifyUrlTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestingFrameworkSeleniumTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.powercoders.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.powercoders.tests" />
-      <option name="MAIN_CLASS_NAME" value="org.powercoders.tests.HomePageTest" />
-      <option name="METHOD_NAME" value="VerifyUrlTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PressPageTest.contactAddressTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestingFrameworkSeleniumTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.powercoders.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.powercoders.tests" />
-      <option name="MAIN_CLASS_NAME" value="org.powercoders.tests.PressPageTest" />
-      <option name="METHOD_NAME" value="contactAddressTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="TestNG.PressPageTest.contactAddressTest" />
-        <item itemvalue="TestNG.HomePageTest.VerifyUrlTest" />
-        <item itemvalue="TestNG.HomePageTest" />
-        <item itemvalue="TestNG.DonatePageTest.donationTest" />
-        <item itemvalue="TestNG.AboutPageTest.programManagerTest" />
-      </list>
-    </recent_temporary>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../EDUMAGO" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="921f9741-f56e-4ecc-b0a5-de11fc38753b" name="Default Changelist" comment="" />
-      <created>1640352364234</created>
+      <changelist id="b6eca2c6-c1c5-4393-a7e7-f145eefbda51" name="Default Changelist" comment="" />
+      <created>1647296007930</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1640352364234</updated>
+      <updated>1647296007930</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="413" y="122" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1640356197716">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="122" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1640356197716" />
-    <state width="1323" height="46" key="GridCell.Tab.0.bottom" timestamp="1641337250015">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="46" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1641337250015" />
-    <state width="1323" height="46" key="GridCell.Tab.0.center" timestamp="1641337250015">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="46" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1641337250015" />
-    <state width="1323" height="46" key="GridCell.Tab.0.left" timestamp="1641337250015">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="46" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1641337250015" />
-    <state width="1323" height="46" key="GridCell.Tab.0.right" timestamp="1641337250015">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="46" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1641337250015" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1640447963272">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1640447963272" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1640447963257">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1640447963257" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1640447963257">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1640447963257" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1640447963257">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1640447963257" />
-    <state x="357" y="78" key="RollbackChangesDialog" timestamp="1641335245083">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="357" y="78" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1641335245083" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/org/powercoders/tests/AboutPageTest.java</url>
-          <line>23</line>
-          <properties class="org.powercoders.tests.AboutPageTest" method="programManagerTest">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

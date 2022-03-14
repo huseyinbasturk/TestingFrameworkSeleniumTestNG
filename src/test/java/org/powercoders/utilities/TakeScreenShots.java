@@ -8,7 +8,7 @@ import org.openqa.selenium.TakesScreenshot;
 
 public class TakeScreenShots {
 
-  public static void takeScreenShot() {
+  public static String takeScreenShot() {
 
     File screen = ((TakesScreenshot)Driver.getDriver() ).getScreenshotAs(OutputType.FILE);
     String path =System.getProperty("user.dir");
@@ -18,6 +18,7 @@ public class TakeScreenShots {
     } catch (IOException e) {
       e.printStackTrace();
     }
+    return path;
   }
 
 }
